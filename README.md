@@ -7,4 +7,5 @@ The output is a list with finds pairs
 For example:
 
 pairs_sum([1,9,5,0,20,-4,12,16,7], 12)
-returs [[5, 7], [0, 12], [-4, 16]]
+
+>> returs [[5, 7], [0, 12], [-4, 16]]
